@@ -21,3 +21,12 @@ Below is an image showing the completed dashboard:
 bubble chart: https://plotly.com/javascript/bubble-charts/
 
 colorscale for bubble chart: https://plotly.com/javascript/colorscales/
+
+## Directory
+
+Within this repository
+    + sample.json file
+    + app.js (analysis file)
+    + index.html (the dashboard)
+
+
