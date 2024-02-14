@@ -25,8 +25,10 @@ colorscale for bubble chart: https://plotly.com/javascript/colorscales/
 ## Directory
 
 Within this repository
-    + sample.json file
-    + app.js (analysis file)
-    + index.html (the dashboard)
+    sample.json file
+    
+    app.js (analysis file)
+    
+    index.html (the dashboard)
 
 
